@@ -1,0 +1,23 @@
+{
+  "name": "electron-desktop-app",
+  "version": "1.0.0",
+  "description": "Electron desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahool1/electron-desktop-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahool1/electron-desktop-app/issues"
+  },
+  "homepage": "https://github.com/Rahool1/electron-desktop-app#readme",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
